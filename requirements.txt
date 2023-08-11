@@ -1,0 +1,5 @@
+tqdm==4.66.1
+urllib3==2.0.4
+xarray==2023.7.0
+netCDF4==1.6.4
+h5netcdf==1.2.0
